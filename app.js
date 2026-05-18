@@ -11,4 +11,4 @@ const novoContato = {
     "cidade": "itapevi"
 }
 
-console.table(await postContato(contato))
+console.table(await postContato(novoContato))
